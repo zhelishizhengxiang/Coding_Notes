@@ -1,5 +1,7 @@
 [138. 随机链表的复制 - 力扣（LeetCode）](https://leetcode.cn/problems/copy-list-with-random-pointer/description/?envType=study-plan-v2&envId=top-100-liked)
 
+![[assets/11随机链表的复制（acm看一看）/file-20250724001130731.png]]
+
 ```java
 class Solution {
     public Node copyRandomList(Node head) {
