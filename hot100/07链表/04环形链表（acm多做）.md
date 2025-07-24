@@ -18,7 +18,8 @@ public class Solution {
 acm模式版本
 
 [环形链表 - 题目详情 - CodeFun2000](https://codefun2000.com/p/P4043)
-![[assets/04环形链表（acm多做）/file-20250616232353136.png]]
+
+![](assets/04环形链表（acm多做）/file-20250616232353136.png)
 
 该题的acm模式需要自己构建环形链表，环形链表的构建的代码和其他代码如下图所示
 ```java

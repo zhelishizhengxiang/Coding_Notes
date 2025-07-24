@@ -9,7 +9,7 @@
 2. 第二步，该最近节点被标记访问过
 3. 第三步，更新非访问节点到源点的距离（即更新minDist数组）
 
-![[assets/18djikstra堆优化版/file-20250616193241073.png]]
+![](assets/18djikstra堆优化版/file-20250616193206643.png)
 
 ```java
 import java.util.*;

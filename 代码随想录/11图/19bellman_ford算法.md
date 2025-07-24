@@ -3,7 +3,7 @@
 **bellman_ford和dijkstra一样都是可以同时计算出起点 到达 所有节点的最短距离，并不只是终点**
 
  **对所有边松弛一次，相当于只能确定 起点到达 与起点一条边相连的节点 的最短距离**  
-![[assets/19bellman_ford算法/file-20250616201934571.png]]
+![](assets/19bellman_ford算法/file-20250616201934571.png)
 
 ```java
 import java.util.*;

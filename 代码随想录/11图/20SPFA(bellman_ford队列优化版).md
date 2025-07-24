@@ -1,6 +1,6 @@
 [94. 城市间货物运输 I](https://kamacoder.com/problempage.php?pid=1152)
 
-![[assets/20SPFA(bellman_ford队列优化版)/file-20250617174733945.png]]
+![](assets/20SPFA(bellman_ford队列优化版)/file-20250617174733945.png)
 
 所以如果图越稠密，则 SPFA的效率越接近与 Bellman_ford。反之，图越稀疏，SPFA的效率就越高。
 ```java

@@ -1,6 +1,6 @@
 [95. 城市间货物运输 II](https://kamacoder.com/problempage.php?pid=1153)
 
-![[assets/21bellman_ford算法之判断负权回路/file-20250617202357855.png]]
+![](assets/21bellman_ford算法之判断负权回路/file-20250617202357855.png)
 
 ```java
 import java.util.*;

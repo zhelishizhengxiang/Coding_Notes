@@ -1,9 +1,9 @@
 **Floyd 算法对边的权值正负没有要求，都可以处理，单不能有负权回路**。
 
 **floyd算法得本质是动态规划**
-
-![[assets/23floyd算法/file-20250618140802592.png]]![[assets/23floyd算法/file-20250618140855595.png]]
-![[assets/23floyd算法/file-20250618141018067.png]]
+![](assets/23floyd算法/file-20250618140802592.png)
+![](assets/23floyd算法/file-20250618140855595.png)
+![](assets/23floyd算法/file-20250618141018067.png)
 * **初始化为第一层**
 
 
@@ -68,7 +68,7 @@ public class Main{
 
 状态压缩版floyd
 
-![[assets/23floyd算法/file-20250618150114527.png]]
+![](assets/23floyd算法/file-20250618150114527.png)
 ```java
 import java.util.*;
 /**
