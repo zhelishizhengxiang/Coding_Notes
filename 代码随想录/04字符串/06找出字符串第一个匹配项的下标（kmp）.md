@@ -4,6 +4,7 @@
 //前缀是指不包含最后一个字符的所有以第一个字符开头的连续子串。后缀是指不包含第一个字符的所有以最后一个字符结尾的连续子串。
 //此处按照前缀表不减一，不右移的具体实现，即按照原本的前缀表进行实现
 class Solution {
+	//求next数组就是在求最长相等前后缀
     public int[] getNext(String needle){
         int n=needle.length();
         int[] next=new int[n];
